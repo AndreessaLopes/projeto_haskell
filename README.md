@@ -23,8 +23,6 @@ O programa implementa um **gerenciador de tarefas funcional**, permitindo adicio
 
 ```
 tarefa.hs           -- Arquivo principal com o código-fonte em Haskell
-relatorio.pdf       -- Relatório explicativo da atividade (desenvolvimento e conclusões)
-README.md           -- Este arquivo
 ```
 
 ## 🛠️ Como executar
